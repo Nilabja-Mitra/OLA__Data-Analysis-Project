@@ -1,0 +1,101 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,V_TAT,C_TAT,Canceled_Rides_by_Customer,Canceled_Rides_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Payment_Method,Ride_Distance,Driver_Ratings,Customer_Rating,"Vehicle Images"
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,NULL,NULL,No,NULL,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-30 16:57:00",16:57:00,CNR6913681615,Success,CID159544,"Prime Sedan","KR Puram",Shantinagar,91,110,null,null,No,null,2998,UPI,27,3.6,3,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-22 20:55:00",20:55:00,CNR7897426170,Success,CID980150,eBike,Majestic,Chickpet,161,35,null,null,No,null,2998,UPI,41,4.2,3,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,NULL,NULL,No,NULL,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-16 3:20:00",3:20:00,CNR6383754055,Success,CID440575,Mini,Nagarbhavi,Padmanabhanagar,266,75,null,null,No,null,2997,UPI,19,4.4,3.7,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-06 12:32:00",12:32:00,CNR4417811060,Success,CID845787,"Prime SUV",Chamarajpet,"Rajarajeshwari Nagar",294,125,null,null,No,null,2996,UPI,19,4.5,4.4,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+"2024-07-16 19:54:00",19:54:00,CNR1989664706,Success,CID928507,"Prime Sedan","Electronic City",Yelahanka,273,135,null,null,No,null,2996,UPI,23,4.7,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
