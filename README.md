@@ -56,6 +56,4 @@ The project solves the following analytical problems:
 
 ---
 
-## 📂 Project Structure
-The repository is organized as follows:
 
