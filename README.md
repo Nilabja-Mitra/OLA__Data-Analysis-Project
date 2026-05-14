@@ -55,5 +55,3 @@ The project solves the following analytical problems:
 - Each query corresponds to a specific business problem, making the analysis modular and easy to extend.
 
 ---
-
-
